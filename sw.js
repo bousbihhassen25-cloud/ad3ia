@@ -1,5 +1,5 @@
 self.addEventListener("install", e => {
-  e.waitUntil(caches.open("ad3iya-cache-fs").then(c => c.addAll([
+  e.waitUntil(caches.open("ad3iya-cache-v3").then(c => c.addAll([
     "index.html","manifest.json","icon-192.png","icon-512.png"
   ])));
 });
