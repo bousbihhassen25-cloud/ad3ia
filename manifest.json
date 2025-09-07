@@ -1,10 +1,12 @@
 {
-  "name": "كتيب الأدعية",
-  "short_name": "كتيب الأدعية",
-  "start_url": "index.html",
+  "name": "أحاديث مكارم الأخلاق",
+  "short_name": "مكارم الأخلاق",
+  "start_url": ".",
   "display": "standalone",
-  "background_color": "#eaf4ff",
-  "theme_color": "#0066cc",
+  "background_color": "#ffffff",
+  "theme_color": "#1553b0",
+  "lang": "ar",
+  "dir": "rtl",
   "icons": [
     {
       "src": "icon-192.png",
